@@ -14,3 +14,7 @@ class ArrayStack {
     private ArrayList<Integer> stack;
     
 }
+
+class ListNode {
+    
+}
