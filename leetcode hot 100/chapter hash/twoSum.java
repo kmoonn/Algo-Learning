@@ -3,6 +3,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner; 
 
+/*
+ * LC.1 两数之和
+ * Level：easy
+ * Tag：数组、哈希表
+ */
+
 /* 解法 1 ：暴力枚举 */
 class Solution1 {
     public int[] twoSum(int[] nums, int target) {
