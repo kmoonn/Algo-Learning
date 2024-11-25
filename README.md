@@ -7,11 +7,9 @@
 
 ## LeetCode Hot 100
 
-### chapter hash （哈希）
+### chapter hash
 
-1. 两数之和
-
-2. 
+### chapter dual-pointer
 
 
 # template
