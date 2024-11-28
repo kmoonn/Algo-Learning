@@ -9,7 +9,8 @@ class Solution {
     public int searchInsert(int[] nums, int target) {
         int l = 0, r = nums.length - 1;
         while(l <= r) {
-            int mid = (l + r) / 2;
+            // int mid = (l + r) / 2;
+            int mid = l + (r - l) / 2; // 防止越界
             if (target > nums[mid]){
                 l = mid + 1;
             }
@@ -21,6 +22,6 @@ class Solution {
             }
         }
 
-        return (l + r + 1) / 2;
+        return l;
     }
 }
