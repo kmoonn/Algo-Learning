@@ -1,7 +1,9 @@
+package Linear;
+
 import java.util.ArrayList;
 
 /*
-Stack
+Linear.Stack
 栈
 
  */

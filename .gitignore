@@ -1,3 +1,4 @@
 .vscode
+.idea
 
-Algo-Learning.iml
+*.iml
