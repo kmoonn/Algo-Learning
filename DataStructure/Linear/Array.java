@@ -1,3 +1,6 @@
+/*
+线性结构：数组
+*/
 package Linear;
 
 import java.util.concurrent.ThreadLocalRandom;
