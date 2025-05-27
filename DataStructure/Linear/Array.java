@@ -155,11 +155,6 @@ public class Array<T> {
 
     public static void main(String[] args) {
         Array<Integer> arr = new Array<>(10);
-        for (int i = 0; i < 10; i++) {
-            arr.add(i);
-        }
-        System.out.println(arr);
-        System.out.println(arr.get());
     }
 }
 
