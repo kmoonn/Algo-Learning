@@ -4,6 +4,7 @@
  * Tag：数组、二分查找
  */
 
+package LeetCodeHot100.BinarySearch;
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
